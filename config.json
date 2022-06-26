@@ -1,8 +1,8 @@
 {
-	"ip":"Mynul0176563.aternos.me:34210",
-	"port": "34210",
-	"name": "gurd1",
+	"ip":"cloudsmps1.aternos.me:39855",
+	"port": "39855",
+	"name": "ffmakzbot",
 	"login-enabled":"true",
 	"register-cmd":"/register afkbot124 ",
-	"login-cmd":"/login afkbot124"
+	"login-cmd":"/login? afkbot124"
 }
